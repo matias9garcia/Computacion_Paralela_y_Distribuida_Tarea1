@@ -1,4 +1,4 @@
-UPDATE 24/04/2024 - Se incluye la carpeta "Recursos" donde se encuentran códigos de ejemplo para conectar a una BD, y hacer un GET a una API REST pública.
+UPDATE 05/05/2024 - Se sube el código base de un proyecto que permite conexión con BD y con una API REST.
 
 Esta es la estructura de archivos necesaria para armar la Tarea 1 de ICI4344.
 
