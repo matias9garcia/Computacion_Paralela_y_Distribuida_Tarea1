@@ -1,4 +1,4 @@
-UPDATE 05/05/2024 - Se sube el código base de un proyecto que permite conexión con BD y con una API REST.
+UPDATE 02/06/2024 - Se sube el código base de implementación de recuperación de fallos y bloqueos mutex.
 
 Esta es la estructura de archivos necesaria para armar la Tarea 1 de ICI4344.
 
